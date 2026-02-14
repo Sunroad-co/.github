@@ -1,5 +1,5 @@
 
-# <img src="https://sunroad.io/assets/img/sunroad-logo.png" alt="Sunroad Logo" width="152"/> 
+# <img src="https://sunroad.io/sunroad-logo.png" alt="Sunroad Logo" width="152"/> 
 
 Connecting local artists with their communities.
 Sunroad is building a platform for artists to showcase their work, reach new audiences, and grow together.  
